@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><samp>" Hi , I'm Mostafa Miri "</samp></h1>
-<h3 align="center">Front End Developer</h3> 
+<h3 align="center">Front-End Developer</h3> 
 </p>
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
