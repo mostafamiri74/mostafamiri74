@@ -15,13 +15,12 @@
 <p align="center"><samp><strong>Framework and Library</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/ANGULAR-D14836?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/RXJS-38B2AC?style=for-the-badge&logo=&logoColor=white" alt="RXJS"/>
   <img src="https://img.shields.io/badge/ANGULARMATERIAL-4383f2?style=for-the-badge&logo=angularmaterial&logoColor=white" alt="AngularMaterial"/>
-  <img src="https://img.shields.io/badge/PRIMENG-D14836&logo=primeng&logoColor=white" alt="Primeng"/>
+  <img src="https://img.shields.io/badge/primeng-D14836?style=for-the-badge&logo=primeng&logoColor=white" alt="Primeng"/>
+  <img src="https://img.shields.io/badge/RXJS-38B2AC?style=for-the-badge&logo=&logoColor=white" alt="RXJS"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-8812fc?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/SASS-E34F26?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/LESS-214674?style=for-the-badge&logo=less&logoColor=white" alt="Less"/>
   <img src="https://img.shields.io/badge/PWA-4383f2?style=for-the-badge&logo=&logoColor=white" alt="Pwa"/>
 </p>
 <hr>
@@ -44,8 +43,8 @@
 <hr>
 <p align="center"><samp><strong>Github Status</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafamiri74&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamiri74&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamiri74&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafamiri74&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
 </p>
