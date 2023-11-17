@@ -18,10 +18,10 @@
   <img src="https://img.shields.io/badge/ANGULARMATERIAL-4383f2?style=for-the-badge&logo=angularmaterial&logoColor=white" alt="AngularMaterial"/>
   <img src="https://img.shields.io/badge/primeng-D14836?style=for-the-badge&logo=primeng&logoColor=white" alt="Primeng"/>
   <img src="https://img.shields.io/badge/RXJS-38B2AC?style=for-the-badge&logo=&logoColor=white" alt="RXJS"/>
+  <img src="https://img.shields.io/badge/NGRX-4383f2?style=for-the-badge&logo=&logoColor=white" alt="Ngrx"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-8812fc?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/SASS-E34F26?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/PWA-4383f2?style=for-the-badge&logo=&logoColor=white" alt="Pwa"/>
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
