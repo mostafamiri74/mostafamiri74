@@ -15,5 +15,5 @@ jobs:
         with:
           max_post_count: 10
           comment_tag_name: "VIRGOOL"
-          feed_list: "https://virgool.io/feed/@amirzenoozi72"
+          feed_list: "https://virgool.io/feed/@mostafamiri"
           commit_message: ":memo: update virgool posts list"
