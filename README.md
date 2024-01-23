@@ -45,6 +45,16 @@
 📘 Latest Virgool Posts
 ------
 <!-- VIRGOOL:START -->
+- [درک Memory Leak در Angular](https://virgool.io/@mostafamiri/%D8%AF%D8%B1%DA%A9-memory-leak-%D8%AF%D8%B1-angular-gmoqqk0yqmjv)
+- [سه ویژگی ng-template، ng-container و ngTemplateOutlet - راهنمای کامل الگوهای Angular](https://virgool.io/@mostafamiri/ngtemplateoutlet-wd6g1jwps565)
+- [تغییر در ورودی کامپوننت ها با تابع Transform در Angular 16](https://virgool.io/@mostafamiri/transform-input-values-in-angular-vavoezr3sa9p)
+- [راهنمای گام به گام برای مدیریت State با NgRx در Angular 16](https://virgool.io/@mostafamiri/ngrx-in-angular16-xrvr6el5wzaz)
+- [دیزاین پترن Facade در Angular](https://virgool.io/@mostafamiri/%D8%AF%DB%8C%D8%B2%D8%A7%DB%8C%D9%86-%D9%BE%D8%AA%D8%B1%D9%86-facade-%D8%AF%D8%B1-angular-ch1kvyqvnf8c)
+- [استفاده از WebWorker در Angular](https://virgool.io/@mostafamiri/angular-web-worker-jysohoioffp8)
+- [ویژگی جدید Required Inputs در Angular v16](https://virgool.io/@mostafamiri/required-inputs-angular-16-otwm8o0pmf2y)
+- [اتصال اطلاعات Router به ورودی های کامپوننت در Angular](https://virgool.io/@mostafamiri/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-router-%D8%A8%D9%87-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D9%86%D9%86%D8%AA-%D8%AF%D8%B1-angular-gm3vgxkp29jt)
+- [10 ویژگی مفید Angular که احتمالاً هرگز استفاده نکرده اید!](https://virgool.io/@mostafamiri/10-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-angular-%DA%A9%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D9%8B-%D9%87%D8%B1%DA%AF%D8%B2-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%86%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C%D8%AF-q09trcdewnoo)
+- [بررسی عمیق OnPush Change Detection در Angular](https://virgool.io/@mostafamiri/angular-change-detection-strategy-ip4qr6owiwsr)
 <!-- VIRGOOL:END -->
 
 <br/>
