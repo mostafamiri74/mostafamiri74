@@ -43,7 +43,7 @@
 <hr>
 
 📘 آخرین مقالات در ویرگول
-------
+
 <!-- VIRGOOL:START -->
 - [درک Memory Leak در Angular](https://virgool.io/@mostafamiri/%D8%AF%D8%B1%DA%A9-memory-leak-%D8%AF%D8%B1-angular-gmoqqk0yqmjv)
 - [سه ویژگی ng-template، ng-container و ngTemplateOutlet - راهنمای کامل الگوهای Angular](https://virgool.io/@mostafamiri/ngtemplateoutlet-wd6g1jwps565)
