@@ -60,9 +60,8 @@
 <br/>
 <hr>
 <p align="center"><samp><strong>Github Status</strong></samp></p>
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafamiri74&layout=compact&theme=radical" />
-</p>
-<p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=mostafamiri74&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
 </p>
