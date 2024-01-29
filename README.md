@@ -3,7 +3,7 @@
 <h3 align="center">Front-End Developer</h3> 
 </p>
 <br />
-<p align="center"><samp><strong>Programming </strong></samp></p>
+<p align="center"><samp><strong>Programming Language</strong></samp></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TYPESCRIPT-2d79c7?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
