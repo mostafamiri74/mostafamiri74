@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/SASS-E34F26?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 <hr>
-<p align="center"><samp><strong>Tool And </strong></samp></p>
+<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-00263f?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Git-6b3026?style=for-the-badge&logo=git" alt="Git" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
 </p>
 <hr>
-<p align="center"><samp><strong>Contact Me</strong></samp></p>
+<p align="center"><samp><strong>Contact </strong></samp></p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mostafamiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin" /></a>
 <a href="mailto:mostafamiri12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
