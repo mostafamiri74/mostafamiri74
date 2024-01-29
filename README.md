@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/SASS-E34F26?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
 </p>
 <hr>
-<p align="center"><samp><strong>Tool And Technology</strong></samp></p>
+<p align="center"><samp><strong>Tool And </strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-00263f?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
   <img src="https://img.shields.io/badge/-Git-6b3026?style=for-the-badge&logo=git" alt="Git" />
