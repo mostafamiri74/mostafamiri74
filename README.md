@@ -36,7 +36,7 @@
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mostafamiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin" /></a>
-<a href="mailto:mostafamiri12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="mailto:mostafa.miri.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://t.me/Mostafam74"><img src="https://img.shields.io/badge/TELEGRAM-00476b?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://mostafamiri74.github.io/"><img src="https://img.shields.io/badge/-Github-1a1d21?style=for-the-badge&logo=github" alt="Github" alt="Github" /></a>
 </p>
