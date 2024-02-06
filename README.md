@@ -42,7 +42,7 @@
 </p>
 <hr>
 
-📘 آخرین مقالات در ویرگول (<a href="https://mostafamiri74.github.io/" target="_blank"> پروفایل ویرگول </a>)
+📘 آخرین مقالات در ویرگول (<a href="https://virgool.io/@mostafamiri" target="_blank"> پروفایل ویرگول </a>)
 
 <!-- VIRGOOL:START -->
 - [۲۰ نکته درباره Angular Best Practices در سال ۲۰۲۳](https://virgool.io/@mostafamiri/angular-best-practice-in-2023-mddfhvw1tul6)
