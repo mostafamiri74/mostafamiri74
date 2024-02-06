@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center"><samp>" Hi , I'm Mostafa Miri "</samp></h1>
-<h3 align="center">Front-End Developer</h3> 
+<h3 align="center">Front-End Developer | Angular</h3> 
 </p>
 <br />
 <p align="center"><samp><strong>Programming Language</strong></samp></p>
@@ -42,7 +42,7 @@
 </p>
 <hr>
 
-📘 آخرین مقالات در ویرگول
+📘 آخرین مقالات در ویرگول (<a href="https://mostafamiri74.github.io/" target="_blank"> پروفایل ویرگول </a>)
 
 <!-- VIRGOOL:START -->
 - [۲۰ نکته درباره Angular Best Practices در سال ۲۰۲۳](https://virgool.io/@mostafamiri/angular-best-practice-in-2023-mddfhvw1tul6)
