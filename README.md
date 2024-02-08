@@ -55,6 +55,10 @@
 - [ویژگی جدید Required Inputs در Angular v16](https://virgool.io/@mostafamiri/required-inputs-angular-16-otwm8o0pmf2y)
 - [اتصال اطلاعات Router به ورودی های کامپوننت در Angular](https://virgool.io/@mostafamiri/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-router-%D8%A8%D9%87-%D9%88%D8%B1%D9%88%D8%AF%DB%8C-%D9%87%D8%A7%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D9%86%D9%86%D8%AA-%D8%AF%D8%B1-angular-gm3vgxkp29jt)
 - [10 ویژگی مفید Angular که احتمالاً هرگز استفاده نکرده اید!](https://virgool.io/@mostafamiri/10-%D9%88%DB%8C%DA%98%DA%AF%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-angular-%DA%A9%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D8%A7%D9%8B-%D9%87%D8%B1%DA%AF%D8%B2-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D9%86%DA%A9%D8%B1%D8%AF%D9%87-%D8%A7%DB%8C%D8%AF-q09trcdewnoo)
+- [بررسی عمیق OnPush Change Detection در Angular](https://virgool.io/@mostafamiri/angular-change-detection-strategy-ip4qr6owiwsr)
+- [مکانیزم Change Detection در Angular](https://virgool.io/@mostafamiri/angular-change-detection-mlsle1bgmup2)
+- [شروع کار با Angular Universal و SSR در Angular](https://virgool.io/@mostafamiri/angular-universal-wkg3kxdmmun6)
+- [بهترین شیوه‌های مدیریت state ها در انگولار](https://virgool.io/@mostafamiri/angular-best-practice-wdi5x5n4tmet)
 <!-- VIRGOOL:END -->
 
 <br/>
