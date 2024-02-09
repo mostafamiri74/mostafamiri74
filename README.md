@@ -45,6 +45,7 @@
 📘 آخرین مقالات در ویرگول (<a href="https://virgool.io/@mostafamiri" target="_blank"> پروفایل ویرگول </a>)
 
 <!-- VIRGOOL:START -->
+- [معماری Hexagonal در Angular](https://virgool.io/@mostafamiri/hexagonal-in-angular-owozndsommb6)
 - [۲۰ نکته درباره Angular Best Practices در سال ۲۰۲۳](https://virgool.io/@mostafamiri/angular-best-practice-in-2023-mddfhvw1tul6)
 - [درک Memory Leak در Angular](https://virgool.io/@mostafamiri/%D8%AF%D8%B1%DA%A9-memory-leak-%D8%AF%D8%B1-angular-gmoqqk0yqmjv)
 - [سه ویژگی ng-template، ng-container و ngTemplateOutlet - راهنمای کامل الگوهای Angular](https://virgool.io/@mostafamiri/ngtemplateoutlet-wd6g1jwps565)
